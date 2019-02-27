@@ -1,6 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
+
+func helloWorld() {
+	fmt.Println("**Examples Hello World**")
+	fmt.Println("Hello, World! ")
+}
 
 func values() {
 	fmt.Println("**Example Values**")
@@ -12,13 +19,29 @@ func values() {
 	fmt.Println(!true)
 }
 
-func helloWorld() {
-	fmt.Println("**Examples Hello World**")
-	fmt.Println("Hello, World! ")
+func variables() {
+	fmt.Println("**Example Variables**")
+
+	var a = "initial"
+	fmt.Println(a)
+
+	var b, c int = 1, 2
+	fmt.Println(b, c)
+
+	var d = true
+	fmt.Println(d)
+
+	var e int
+	fmt.Println(e)
+
+	f := "short"
+	fmt.Println(f)
+
 }
 
 func main() {
 	helloWorld()
 	values()
+	variables()
 
 }
