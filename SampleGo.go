@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func values() {
 	fmt.Println("**Example Values**")
 	fmt.Println("go" + "lang")
@@ -15,9 +14,8 @@ func values() {
 
 func helloWorld() {
 	fmt.Println("**Examples Hello World**")
-	fmt.Println("Hello, World!")
+	fmt.Println("Hello, World! ")
 }
-
 
 func main() {
 	helloWorld()
