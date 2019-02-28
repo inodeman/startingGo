@@ -11,4 +11,5 @@ func main() {
 	examples.Constants()
 	examples.For()
 	examples.IfElse()
+	examples.Switch()
 }
