@@ -13,4 +13,5 @@ func main() {
 	examples.IfElse()
 	examples.Switch()
 	examples.Arrays()
+	examples.Slices()
 }
