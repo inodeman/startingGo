@@ -16,4 +16,7 @@ func main() {
 	examples.Slices()
 	examples.Maps()
 	examples.Ranges()
+	examples.Functions()
+	examples.MultipleReturnValues()
+	examples.VariadicFunctions()
 }
