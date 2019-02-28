@@ -21,4 +21,7 @@ func main() {
 	examples.VariadicFunctions()
 	examples.Closures()
 	examples.Recursion()
+	examples.Pointers()
+	examples.Structs()
+	examples.Methods()
 }
