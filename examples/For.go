@@ -3,6 +3,7 @@ package examples
 import "fmt"
 
 func For() {
+	fmt.Println("**Examples For**")
 	i := 1
 	for i <= 3 {
 		fmt.Println(i)
