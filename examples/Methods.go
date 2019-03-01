@@ -15,6 +15,8 @@ func (r rect) perim() int {
 }
 
 func Methods() {
+	fmt.Println("**Example Methods**")
+
 	r := rect{width: 10, height: 5}
 
 	fmt.Println("area: ", r.area())
