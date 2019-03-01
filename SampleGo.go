@@ -27,4 +27,5 @@ func main() {
 	examples.Interfaces()
 	examples.Errors()
 	examples.GoRoutines()
+	examples.Channels()
 }

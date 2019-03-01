@@ -19,6 +19,6 @@ func GoRoutines() {
 		fmt.Println(msg)
 	}("going")
 
-	fmt.Scanln()
+	//fmt.Scanln()
 	fmt.Println("done")
 }
