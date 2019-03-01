@@ -28,4 +28,5 @@ func main() {
 	examples.Errors()
 	examples.GoRoutines()
 	examples.Channels()
+	examples.ChannelBuffering()
 }
