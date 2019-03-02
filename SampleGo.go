@@ -29,4 +29,6 @@ func main() {
 	examples.GoRoutines()
 	examples.Channels()
 	examples.ChannelBuffering()
+	examples.ChannelSincronization()
+	examples.ChannelDirections()
 }
