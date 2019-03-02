@@ -31,4 +31,5 @@ func main() {
 	examples.ChannelBuffering()
 	examples.ChannelSincronization()
 	examples.ChannelDirections()
+	examples.Select()
 }
