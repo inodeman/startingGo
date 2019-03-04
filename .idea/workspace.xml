@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fc96dca-e7b3-4ecc-88b3-c0a35f5a97bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/Select.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleGo.go" beforeDir="false" afterPath="$PROJECT_DIR$/SampleGo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Select.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/Select.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/Select.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="405">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
               <folding>
                 <element signature="e#18#43#0" expanded="true" />
               </folding>
@@ -168,8 +166,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="895" />
-    <option name="y" value="54" />
+    <option name="x" value="46" />
+    <option name="y" value="50" />
     <option name="width" value="1400" />
     <option name="height" value="987" />
   </component>
@@ -266,7 +264,7 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="895" y="54" width="1400" height="987" extended-state="0" />
+    <frame x="46" y="50" width="1400" height="987" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -333,7 +331,8 @@
     <MESSAGE value="Added Channels" />
     <MESSAGE value="Added Channel Buffering" />
     <MESSAGE value="Added Channel Sincronization and Directions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Channel Sincronization and Directions" />
+    <MESSAGE value="Added Select" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Select" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file:///usr/local/go/src/sync/pool.go">
@@ -606,8 +605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/Select.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="405">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
           <folding>
             <element signature="e#18#43#0" expanded="true" />
           </folding>
