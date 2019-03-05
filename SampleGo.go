@@ -33,4 +33,5 @@ func main() {
 	examples.ChannelDirections()
 	examples.Select()
 	examples.TimeOuts()
+	examples.NonBlockingChannels()
 }
