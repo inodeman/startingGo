@@ -40,7 +40,7 @@ func RateLimiting() {
 	close(burstyRequests)
 
 	for req := range burstyRequests {
-		<-burstyRequests
+		<-burstyLimiter
 		fmt.Println("request", req, time.Now())
 	}
 }
