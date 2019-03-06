@@ -41,4 +41,5 @@ func main() {
 	examples.WorkerPools()
 	examples.RateLimiting()
 	examples.AtomicCounters()
+	examples.Mutexes()
 }
