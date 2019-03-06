@@ -42,13 +42,15 @@ func StatefulGoRoutines() {
 
 	for r := 0; r < 100; r++ {
 		go func() {
-			read := &readOp{
-				key:  rand.Intn(5),
-				resp: make(chan int)}
-			reads <- read
-			<-read.resp
-			atomic.AddUint64(&readOps, 1)
-			time.Sleep(time.Millisecond)
+			for {
+				read := &readOp{
+					key:  rand.Intn(5),
+					resp: make(chan int)}
+				reads <- read
+				<-read.resp
+				atomic.AddUint64(&readOps, 1)
+				time.Sleep(time.Millisecond)
+			}
 		}()
 	}
 

@@ -43,4 +43,5 @@ func main() {
 	examples.AtomicCounters()
 	examples.Mutexes()
 	examples.StatefulGoRoutines()
+	examples.Sorting()
 }
