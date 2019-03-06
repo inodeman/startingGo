@@ -38,4 +38,5 @@ func main() {
 	examples.RangeOverChannels()
 	examples.Timers()
 	examples.Tickers()
+	examples.WorkerPools()
 }
