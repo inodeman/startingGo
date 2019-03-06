@@ -39,4 +39,5 @@ func main() {
 	examples.Timers()
 	examples.Tickers()
 	examples.WorkerPools()
+	examples.RateLimiting()
 }
