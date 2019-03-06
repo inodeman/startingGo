@@ -44,4 +44,5 @@ func main() {
 	examples.Mutexes()
 	examples.StatefulGoRoutines()
 	examples.Sorting()
+	examples.SortingByFunctions()
 }
