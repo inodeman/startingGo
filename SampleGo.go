@@ -45,5 +45,7 @@ func main() {
 	examples.StatefulGoRoutines()
 	examples.Sorting()
 	examples.SortingByFunctions()
-	examples.Panic()
+	//examples.Panic()
+	examples.Defer()
+
 }
