@@ -42,4 +42,5 @@ func main() {
 	examples.RateLimiting()
 	examples.AtomicCounters()
 	examples.Mutexes()
+	examples.StatefulGoRoutines()
 }
