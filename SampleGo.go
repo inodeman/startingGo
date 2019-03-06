@@ -40,4 +40,5 @@ func main() {
 	examples.Tickers()
 	examples.WorkerPools()
 	examples.RateLimiting()
+	examples.AtomicCounters()
 }
