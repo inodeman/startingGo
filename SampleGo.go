@@ -50,5 +50,6 @@ func main() {
 	examples.CollectionFunctions()
 	examples.StringFunctions()
 	examples.StringFormatting()
+	examples.RegularExpressions()
 
 }

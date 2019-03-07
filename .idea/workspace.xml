@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fc96dca-e7b3-4ecc-88b3-c0a35f5a97bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/StringFunctions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/RegularExpressions.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SampleGo.go" beforeDir="false" afterPath="$PROJECT_DIR$/SampleGo.go" afterDir="false" />
     </list>
@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SampleGo.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+            <state relative-caret-position="481">
+              <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -26,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/Constants.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="165">
+              <caret line="11" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding>
                 <element signature="e#18#43#0" expanded="true" />
               </folding>
@@ -59,13 +59,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/StringFunctions.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="150">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding>
                 <element signature="e#18#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/StringFormatting.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="e#18#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/RegularExpressions.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#18#45#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,30 +100,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" selection-start-line="8" selection-start-column="4" selection-end-line="9" />
-              <folding>
-                <element signature="e#18#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/StatefulGoRoutines.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-              <folding>
-                <element signature="e#18#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/Sorting.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
                 <element signature="e#18#43#0" expanded="true" />
               </folding>
@@ -197,14 +197,16 @@
         <option value="$PROJECT_DIR$/examples/Panic.go" />
         <option value="$PROJECT_DIR$/examples/Defer.go" />
         <option value="$PROJECT_DIR$/examples/CollectionFunctions.go" />
-        <option value="$PROJECT_DIR$/SampleGo.go" />
         <option value="$PROJECT_DIR$/examples/StringFunctions.go" />
+        <option value="$PROJECT_DIR$/examples/StringFormatting.go" />
+        <option value="$PROJECT_DIR$/examples/RegularExpressions.go" />
+        <option value="$PROJECT_DIR$/SampleGo.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="643" />
-    <option name="y" value="23" />
+    <option name="x" value="705" />
+    <option name="y" value="41" />
     <option name="width" value="1400" />
     <option name="height" value="987" />
   </component>
@@ -301,15 +303,14 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="643" y="23" width="1400" height="987" extended-state="0" />
-    <editor active="true" />
+    <frame x="705" y="41" width="1400" height="987" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30614525" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30614525" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,8 +351,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Functions, MultipleReturnValyes, Variadic Functions" />
-    <MESSAGE value="Added Clousures and Recursions" />
     <MESSAGE value="Added Methods, Pointers and Structs" />
     <MESSAGE value="Added Interfaces" />
     <MESSAGE value="added Errors" />
@@ -375,23 +374,11 @@
     <MESSAGE value="Added Panic" />
     <MESSAGE value="Added Defer" />
     <MESSAGE value="Added Collection Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Collection Functions" />
+    <MESSAGE value="Added String Functions" />
+    <MESSAGE value="Added String Formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added String Formatting" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/go/src/sync/mutex.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2865">
-          <caret line="195" selection-start-line="195" selection-end-line="195" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/runtime/proc.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3240">
-          <caret line="221" selection-start-line="221" selection-end-line="221" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/go/src/fmt/print.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -762,29 +749,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SampleGo.go">
+    <entry file="file://$PROJECT_DIR$/examples/StringFunctions.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        <state relative-caret-position="150">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="e#18#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/StringFormatting.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#18#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/Constants.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="165">
+          <caret line="11" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding>
             <element signature="e#18#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/StringFunctions.go">
+    <entry file="file://$PROJECT_DIR$/SampleGo.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        <state relative-caret-position="481">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/RegularExpressions.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
-            <element signature="e#18#50#0" expanded="true" />
+            <element signature="e#18#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
