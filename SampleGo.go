@@ -51,5 +51,6 @@ func main() {
 	examples.StringFunctions()
 	examples.StringFormatting()
 	examples.RegularExpressions()
+	examples.Json()
 
 }
