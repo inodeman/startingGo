@@ -59,5 +59,6 @@ func main() {
 	examples.NumberParsing()
 	examples.URLParsing()
 	examples.Sha1Hashes()
+	examples.Base64Encoding()
 
 }
