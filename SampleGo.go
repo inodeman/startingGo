@@ -58,5 +58,6 @@ func main() {
 	examples.RandomNumbers()
 	examples.NumberParsing()
 	examples.URLParsing()
+	examples.Sha1Hashes()
 
 }
