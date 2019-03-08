@@ -60,5 +60,6 @@ func main() {
 	examples.URLParsing()
 	examples.Sha1Hashes()
 	examples.Base64Encoding()
+	examples.ReadingFiles()
 
 }
