@@ -53,5 +53,6 @@ func main() {
 	examples.RegularExpressions()
 	examples.Json()
 	examples.Time()
+	examples.Epoch()
 
 }
