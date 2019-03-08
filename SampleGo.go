@@ -57,5 +57,6 @@ func main() {
 	examples.TimeFormattingNParsing()
 	examples.RandomNumbers()
 	examples.NumberParsing()
+	examples.URLParsing()
 
 }
