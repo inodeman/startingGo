@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fc96dca-e7b3-4ecc-88b3-c0a35f5a97bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/TimeFormattingNParsing.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/NumberParsing.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleGo.go" beforeDir="false" afterPath="$PROJECT_DIR$/SampleGo.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SampleGo.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+            <state relative-caret-position="451">
+              <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -30,30 +29,6 @@
               <caret line="11" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding>
                 <element signature="e#18#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/CollectionFunctions.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#18#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/StringFunctions.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-              <folding>
-                <element signature="e#18#50#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,13 +94,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/TimeFormattingNParsing.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+            <state relative-caret-position="495">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#18#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/RandomNumbers.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <folding>
+                <element signature="e#18#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/NumberParsing.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="e#18#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,8 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/examples/Values.go" />
-        <option value="$PROJECT_DIR$/examples/Constants.go" />
         <option value="$PROJECT_DIR$/examples/HelloWorld.go" />
         <option value="$PROJECT_DIR$/examples/For.go" />
         <option value="$PROJECT_DIR$/examples/IfElse.go" />
@@ -201,13 +198,15 @@
         <option value="$PROJECT_DIR$/examples/Json.go" />
         <option value="$PROJECT_DIR$/examples/Time.go" />
         <option value="$PROJECT_DIR$/examples/Epoch.go" />
-        <option value="$PROJECT_DIR$/SampleGo.go" />
         <option value="$PROJECT_DIR$/examples/TimeFormattingNParsing.go" />
+        <option value="$PROJECT_DIR$/SampleGo.go" />
+        <option value="$PROJECT_DIR$/examples/RandomNumbers.go" />
+        <option value="$PROJECT_DIR$/examples/NumberParsing.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="795" />
+    <option name="x" value="646" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="987" />
@@ -305,7 +304,8 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="795" y="23" width="1400" height="987" extended-state="0" />
+    <frame x="377" y="23" width="1400" height="987" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -353,8 +353,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Channels" />
-    <MESSAGE value="Added Channel Buffering" />
     <MESSAGE value="Added Channel Sincronization and Directions" />
     <MESSAGE value="Added Select" />
     <MESSAGE value="Added Timeouts" />
@@ -378,23 +376,11 @@
     <MESSAGE value="Added Json" />
     <MESSAGE value="Added Time" />
     <MESSAGE value="Added Epoch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Epoch" />
+    <MESSAGE value="Added Time Formatting And Parsing" />
+    <MESSAGE value="Added Randon Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Randon Numbers" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/examples/For.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/IfElse.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/go/src/time/time.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -799,19 +785,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SampleGo.go">
+    <entry file="file://$PROJECT_DIR$/examples/TimeFormattingNParsing.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#18#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/TimeFormattingNParsing.go">
+    <entry file="file://$PROJECT_DIR$/SampleGo.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        <state relative-caret-position="451">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/RandomNumbers.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding>
-            <element signature="e#18#43#0" expanded="true" />
+            <element signature="e#18#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/NumberParsing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#18#46#0" expanded="true" />
           </folding>
         </state>
       </provider>

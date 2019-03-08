@@ -56,5 +56,6 @@ func main() {
 	examples.Epoch()
 	examples.TimeFormattingNParsing()
 	examples.RandomNumbers()
+	examples.NumberParsing()
 
 }
