@@ -54,5 +54,6 @@ func main() {
 	examples.Json()
 	examples.Time()
 	examples.Epoch()
+	examples.TimeFormattingNParsing()
 
 }
