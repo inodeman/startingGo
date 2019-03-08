@@ -61,5 +61,6 @@ func main() {
 	examples.Sha1Hashes()
 	examples.Base64Encoding()
 	examples.ReadingFiles()
+	examples.WritingFiles()
 
 }
