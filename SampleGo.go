@@ -68,6 +68,7 @@ func main() {
 	examples.EnvironmentVariables()
 	examples.SpawningProcesses()
 	//examples.ExecingProcesses()
-	examples.Signals()
+	//examples.Signals()
+	examples.Exit()
 
 }

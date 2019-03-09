@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fc96dca-e7b3-4ecc-88b3-c0a35f5a97bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/ExecingProcesses.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/Exit.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SampleGo.go" beforeDir="false" afterPath="$PROJECT_DIR$/SampleGo.go" afterDir="false" />
     </list>
@@ -14,23 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SampleGo.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+            <state relative-caret-position="436">
+              <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/URLParsing.go">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/Exit.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="10" selection-start-line="9" selection-start-column="4" selection-end-line="10" />
-              <folding>
-                <element signature="e#18#46#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -98,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/SpawningProcesses.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state relative-caret-position="65">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#18#46#0" expanded="true" />
               </folding>
@@ -111,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/examples/ExecingProcesses.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="e#18#46#0" expanded="true" />
               </folding>
@@ -120,10 +117,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/go/src/flag/flag.go">
+        <entry file="file://$PROJECT_DIR$/examples/Signals.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="757" column="5" selection-start-line="757" selection-start-column="5" selection-end-line="757" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -149,8 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/examples/Closures.go" />
-        <option value="$PROJECT_DIR$/examples/Recursion.go" />
         <option value="$PROJECT_DIR$/examples/Structs.go" />
         <option value="$PROJECT_DIR$/examples/Methods.go" />
         <option value="$PROJECT_DIR$/examples/Interfaces.go" />
@@ -197,14 +192,16 @@
         <option value="$PROJECT_DIR$/examples/CommandLineFlags.go" />
         <option value="$PROJECT_DIR$/examples/CommandLineArguments.go" />
         <option value="$PROJECT_DIR$/examples/EnvironmentVariables.go" />
-        <option value="$PROJECT_DIR$/examples/SpawningProcesses.go" />
         <option value="$PROJECT_DIR$/examples/ExecingProcesses.go" />
+        <option value="$PROJECT_DIR$/examples/Signals.go" />
+        <option value="$PROJECT_DIR$/examples/SpawningProcesses.go" />
         <option value="$PROJECT_DIR$/SampleGo.go" />
+        <option value="$PROJECT_DIR$/examples/Exit.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="730" />
+    <option name="x" value="512" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="987" />
@@ -306,7 +303,8 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="730" y="23" width="1400" height="987" extended-state="0" />
+    <frame x="512" y="23" width="1400" height="987" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -321,7 +319,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32960895" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -354,7 +352,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Sorting" />
     <MESSAGE value="Added Sorting by Functions" />
     <MESSAGE value="Added Panic" />
     <MESSAGE value="Added Defer" />
@@ -379,26 +376,10 @@
     <MESSAGE value="Added Environment Variables" />
     <MESSAGE value="Added Spawning Processes" />
     <MESSAGE value="Added Execing Processes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Execing Processes" />
+    <MESSAGE value="Added Signals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Signals" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/examples/Interfaces.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-          <folding>
-            <element signature="e#18#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/builtin/builtin.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="260" column="5" selection-start-line="260" selection-start-column="5" selection-end-line="260" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/VariadicFunctions.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -776,16 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/Base64Encoding.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="e#18#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/CommandLineArguments.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -826,20 +797,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/SpawningProcesses.go">
+    <entry file="file://$PROJECT_DIR$/examples/ExecingProcesses.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        <state relative-caret-position="390">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="e#18#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/ExecingProcesses.go">
+    <entry file="file://$PROJECT_DIR$/examples/Signals.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="75">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/SpawningProcesses.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#18#46#0" expanded="true" />
           </folding>
@@ -848,8 +826,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SampleGo.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+        <state relative-caret-position="436">
+          <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/Base64Encoding.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#18#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/Exit.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
