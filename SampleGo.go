@@ -64,5 +64,6 @@ func main() {
 	examples.WritingFiles()
 	examples.LineFilters()
 	examples.CommandLineArguments()
+	examples.CommandLineFlags()
 
 }

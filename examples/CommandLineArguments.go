@@ -6,6 +6,8 @@ import (
 )
 
 func CommandLineArguments() {
+	fmt.Println("**Examples Command Line Arguments**")
+
 	argsWithProg := os.Args
 	argsWithouProg := os.Args[1:]
 	arg := os.Args[3]
