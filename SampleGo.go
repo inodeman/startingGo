@@ -66,5 +66,6 @@ func main() {
 	examples.CommandLineArguments()
 	examples.CommandLineFlags()
 	examples.EnvironmentVariables()
+	examples.SpawningProcesses()
 
 }
