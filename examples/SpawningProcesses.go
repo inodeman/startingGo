@@ -42,4 +42,15 @@ func SpawningProcesses() {
 
 	fmt.Println("> ls -a -l -h")
 	fmt.Println(string(lsOut))
+
+	psCmd := exec.Command("bash", "-c", "ps")
+	psOut, err := psCmd.Output()
+
+	if err != nil {
+		panic(err)
+	}
+
+	fmt.Println("> ps")
+	fmt.Println(string(psOut))
+
 }
