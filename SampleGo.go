@@ -5,6 +5,8 @@ import (
 )
 
 func main() {
+	// When ready to run the commented examples just uncomment them, execute them and comment them back
+	// as some of them causes everything to stop
 	examples.HelloWorld()
 	examples.Values()
 	examples.Variables()
@@ -70,5 +72,5 @@ func main() {
 	//examples.ExecingProcesses()
 	//examples.Signals()
 	examples.Exit()
-	// All Examples
+	// All Examples.
 }
