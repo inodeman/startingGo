@@ -34,7 +34,7 @@ func main() {
 	examples.ChannelSincronization()
 	examples.ChannelDirections()
 	examples.Select()
-	examples.TimeOuts()
+	examples.TimeOuts() //
 	examples.NonBlockingChannels()
 	examples.ClosingChannels()
 	examples.RangeOverChannels()
