@@ -73,5 +73,6 @@ func main() {
 	//examples.Signals()
 	examples.Exit()
 	// All Examples.
+	// Things of interests goroutines, channels, syncronization, etc
 
 }
