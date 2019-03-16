@@ -41,7 +41,7 @@ func main() {
 	examples.Timers()
 	examples.Tickers()
 	examples.WorkerPools()
-	examples.RateLimiting()
+	examples.RateLimiting() // Need to practice this
 	examples.AtomicCounters()
 	examples.Mutexes()
 	examples.StatefulGoRoutines()
