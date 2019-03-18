@@ -74,5 +74,5 @@ func main() {
 	examples.Exit()
 	// All Examples.
 	// Things of interests goroutines, channels, syncronization, etc
-
+	// This will be published as a public repository
 }

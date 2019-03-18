@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fc96dca-e7b3-4ecc-88b3-c0a35f5a97bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1fc96dca-e7b3-4ecc-88b3-c0a35f5a97bb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SampleGo.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="75" column="68" selection-start-line="75" selection-start-column="68" selection-end-line="75" selection-end-column="68" />
+            <state relative-caret-position="245">
+              <caret line="43" column="52" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -295,9 +293,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="512" y="23" width="1400" height="987" extended-state="1" />
+    <frame x="512" y="23" width="1400" height="987" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26804122" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27172312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -750,8 +749,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SampleGo.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="75" column="68" selection-start-line="75" selection-start-column="68" selection-end-line="75" selection-end-column="68" />
+        <state relative-caret-position="245">
+          <caret line="43" column="52" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
         </state>
       </provider>
     </entry>
